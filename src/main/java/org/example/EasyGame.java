@@ -46,6 +46,6 @@ public class EasyGame extends Game{
     @Override
     public void displayWinner() {
         System.out.print("The winner is player number : " + winner + "! They guessed the correct number, which" +
-                "was :" + randomNumber);
+                "was : " + randomNumber);
     }
 }
